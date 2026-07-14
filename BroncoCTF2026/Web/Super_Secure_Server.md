@@ -1,4 +1,4 @@
-<center>**`e0_ | h1gkpo | BroncoCTF 2026 | Web`**</center>
+**`e0_ | h1gkpo | BroncoCTF 2026 | Web`**
 
 <img src="src/images/image-1.png">
 
